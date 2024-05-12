@@ -27,7 +27,7 @@
 
 
 ## 参考にするもの
-* LLM-jp cprpus()
+* LLM-jp cprpus([リンク](https://gitlab.llm-jp.nii.ac.jp/datasets/llm-jp-corpus-v2))
 * RefinedWeb コーパスと、その模倣であるFinedWeb([リンク](https://github.com/huggingface/datatrove/tree/main/src/datatrove/pipeline/filters))
 
 * Swallowコーパス
