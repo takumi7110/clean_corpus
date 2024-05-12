@@ -31,3 +31,4 @@
 * RefinedWeb コーパスと、その模倣であるFinedWeb([リンク](https://github.com/huggingface/datatrove/tree/main/src/datatrove/pipeline/filters))
 
 * Swallowコーパス
+* hatakeyamaさんのコード([リンク](https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a))
