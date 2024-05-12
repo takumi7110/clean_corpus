@@ -36,3 +36,4 @@
 * Swallowコーパス([発表スライド](https://speakerdeck.com/aya_se/data-centric-ai-swallow-corpus-56e2869a-f9bd-46cb-b030-1012235c37f7)、[NLP2024の論文](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-1.pdf)、[論文](https://arxiv.org/abs/2404.17790))
 * hatakeyamaさんのコード([リンク](https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a))
 * Gopher([論文](https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a](https://arxiv.org/abs/2112.11446)))
+* [note](https://www.notion.so/matsuolab-geniac/7edfb573e2de4949b8ea2993449eb1ae)
