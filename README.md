@@ -1,5 +1,5 @@
 # clean_corpus
-日本語特化LLMのためのコーパスクリーニング
+日本語特化LLMのための日本語コーパスクリーニング
 
 [進捗スライド](https://docs.google.com/presentation/d/13dZ441Xn6dv7MKsed0zbcSHNyBHGoJH_NuQZdbB5x14/edit#slide=id.g2cf042e6629_0_164)
 
@@ -18,11 +18,11 @@
 * 文字のなさ
 * 繰り返し表現削除
 * ヘッダー、フッター
-　　*　MLベース 
+*　MLベース 
 
 
 ## dedup
-* Minhash
+* Minhash：高速化したい
 * Exact
 
 
