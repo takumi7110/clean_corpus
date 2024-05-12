@@ -35,4 +35,4 @@
 [論文](https://arxiv.org/abs/2306.01116)、[記事](https://qiita.com/kernelian/items/1ea84c8f7da43fb5bb6b))
 * Swallowコーパス
 * hatakeyamaさんのコード([リンク](https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a))
-* Gopher([論文]([https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a](https://arxiv.org/abs/2112.11446)))
+* Gopher([論文](https://note.com/kan_hatakeyama/n/nf5b102271f82#1506e7dd-5be2-4e9a-8724-ca9d87dde60a](https://arxiv.org/abs/2112.11446)))
